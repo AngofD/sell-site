@@ -59,7 +59,6 @@ const renderGallery = () => {
           />
           <span class="gallery-card__meta">
             <strong>${item.caption}</strong>
-            <span>${index + 1} / ${galleryItems.length}</span>
           </span>
         </button>
       `
