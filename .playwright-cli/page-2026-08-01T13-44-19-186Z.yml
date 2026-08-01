@@ -1,0 +1,383 @@
+- generic [ref=f1e2]:
+  - banner [ref=f1e3]:
+    - generic [ref=f1e4]:
+      - link "На початок сторінки" [ref=f1e5] [cursor=pointer]:
+        - /url: "#hero"
+        - generic [ref=f1e6]: H
+        - generic [ref=f1e7]:
+          - strong [ref=f1e8]: Hammelmann
+          - generic [ref=f1e9]: до 1500 бар
+      - button "Відкрити меню" [ref=f1e10]
+  - main [ref=f1e14]:
+    - generic [ref=f1e16]:
+      - generic [ref=f1e17]:
+        - generic [ref=f1e18]: Промислове обладнання преміум-класу
+        - heading "Установка надвисокого тиску Hammelmann до 1500 бар" [level=1] [ref=f1e19]
+        - paragraph [ref=f1e20]: Надійна німецька установка для очищення теплообмінників, підготовки поверхонь, гідродемонтажу та інших складних виробничих завдань із водою під надвисоким тиском.
+        - list "Ключові параметри установки" [ref=f1e21]:
+          - listitem [ref=f1e22]:
+            - strong [ref=f1e23]: до 1500 бар
+            - generic [ref=f1e24]: конструктивний максимум
+          - listitem [ref=f1e25]:
+            - strong [ref=f1e26]: 55 кВт
+            - generic [ref=f1e27]: потужність приводу
+          - listitem [ref=f1e28]:
+            - strong [ref=f1e29]: 32 л/хв
+            - generic [ref=f1e30]: продуктивність
+          - listitem [ref=f1e31]:
+            - strong [ref=f1e32]: 920 бар
+            - generic [ref=f1e33]: робочий тиск зараз
+          - listitem [ref=f1e34]:
+            - strong [ref=f1e35]: Hammelmann GmbH
+            - generic [ref=f1e36]: Німеччина
+          - listitem [ref=f1e37]:
+            - strong [ref=f1e38]: Новий стан
+            - generic [ref=f1e39]: заводське зберігання
+        - generic [ref=f1e40]:
+          - link "Обговорити покупку" [ref=f1e41] [cursor=pointer]:
+            - /url: "#contacts"
+          - link "Дивитися характеристики" [ref=f1e42] [cursor=pointer]:
+            - /url: "#specs"
+      - generic [ref=f1e43]:
+        - img "Головне фото установки Hammelmann надвисокого тиску" [ref=f1e45]
+        - generic [ref=f1e46]:
+          - generic [ref=f1e47]: Готова до показу
+          - paragraph [ref=f1e48]: Установка зберігається у заводській упаковці. Детальні фото та відео доступні за запитом.
+    - generic [ref=f1e50]:
+      - generic [ref=f1e51]:
+        - generic [ref=f1e52]: Про установку
+        - heading "Обладнання для реальних промислових навантажень" [level=2] [ref=f1e53]
+      - generic [ref=f1e54]:
+        - generic [ref=f1e55]:
+          - paragraph [ref=f1e56]: Це професійна установка надвисокого тиску Hammelmann німецького виробництва, розрахована на інтенсивну експлуатацію в умовах промислових майданчиків, сервісних підрядників і спеціалізованих очисних робіт.
+          - paragraph [ref=f1e57]: Вона підходить підприємствам, які працюють з важкими забрудненнями, демонтажем, підготовкою поверхонь та очищенням обладнання, де критично важливі ресурс, стабільний тиск і надійність вузлів.
+        - list [ref=f1e59]:
+          - listitem [ref=f1e60]: Оптимальна для сервісних компаній, промислових майданчиків і виробничих підприємств.
+          - listitem [ref=f1e61]: Працює там, де звичайні мийні системи не дають потрібного результату.
+          - listitem [ref=f1e62]: Поєднує високий тиск, мобільне виконання та готову робочу комплектацію.
+    - generic [ref=f1e64]:
+      - generic [ref=f1e65]:
+        - generic [ref=f1e66]: Сфери застосування
+        - heading "Де установка дає найбільшу користь" [level=2] [ref=f1e67]
+      - generic [ref=f1e68]:
+        - article [ref=f1e69]:
+          - heading "Очищення технологічного обладнання" [level=3] [ref=f1e70]
+          - paragraph [ref=f1e71]: Теплообмінники, труби, реактори, резервуари та інші вузли зі складними відкладеннями.
+        - article [ref=f1e72]:
+          - heading "Підготовка поверхонь" [level=3] [ref=f1e73]
+          - paragraph [ref=f1e74]: Видалення старої фарби, корозії, окалини, бітуму та полімерних покриттів перед обробкою.
+        - article [ref=f1e75]:
+          - heading "Гідродемонтаж" [level=3] [ref=f1e76]
+          - paragraph [ref=f1e77]: Роботи, де потрібне контрольоване руйнування матеріалу без зайвого механічного навантаження.
+        - article [ref=f1e78]:
+          - heading "Залізобетон та бетон" [level=3] [ref=f1e79]
+          - paragraph [ref=f1e80]: Очищення конструкцій, змивання пошкодженого або старого бетону, відновлювальні операції.
+        - article [ref=f1e81]:
+          - heading "Антикорозійна підготовка" [level=3] [ref=f1e82]
+          - paragraph [ref=f1e83]: Створення чистої основи для подальшого нанесення захисних матеріалів і покриттів.
+        - article [ref=f1e84]:
+          - heading "Складні промислові задачі" [level=3] [ref=f1e85]
+          - paragraph [ref=f1e86]: Роботи з високими вимогами до ресурсу, стабільності тиску та безперервної експлуатації.
+    - generic [ref=f1e88]:
+      - generic [ref=f1e89]:
+        - generic [ref=f1e90]: Технічні характеристики
+        - heading "Ключові параметри установки" [level=2] [ref=f1e91]
+      - generic [ref=f1e92]:
+        - generic [ref=f1e94]:
+          - generic [ref=f1e95]:
+            - generic [ref=f1e96]: до
+            - strong [ref=f1e97]: 1500 бар
+            - generic [ref=f1e98]: конструктивний максимальний тиск
+          - generic [ref=f1e99]:
+            - generic [ref=f1e100]: робочий
+            - strong [ref=f1e101]: 920 бар
+            - generic [ref=f1e102]: у поточній комплектації
+          - generic [ref=f1e103]:
+            - generic [ref=f1e104]: потужність
+            - strong [ref=f1e105]: 55 кВт
+            - generic [ref=f1e106]: привід установки
+          - generic [ref=f1e107]:
+            - generic [ref=f1e108]: продуктивність
+            - strong [ref=f1e109]: 32 л/хв
+            - generic [ref=f1e110]: розхід води
+        - generic [ref=f1e111]:
+          - generic [ref=f1e112]:
+            - generic [ref=f1e113]: Виробник
+            - strong [ref=f1e114]: Hammelmann GmbH, Germany
+          - generic [ref=f1e115]:
+            - generic [ref=f1e116]: Рік випуску
+            - strong [ref=f1e117]: "2008"
+          - generic [ref=f1e118]:
+            - generic [ref=f1e119]: Потужність приводу
+            - strong [ref=f1e120]: 55 кВт
+          - generic [ref=f1e121]:
+            - generic [ref=f1e122]: Обороти насоса
+            - strong [ref=f1e123]: 1500 об/хв
+          - generic [ref=f1e124]:
+            - generic [ref=f1e125]: Діаметр плунжерів
+            - strong [ref=f1e126]: 24 мм
+          - generic [ref=f1e127]:
+            - generic [ref=f1e128]: Матеріал плунжерів
+            - strong [ref=f1e129]: Зносостійка кераміка / спецсплав
+          - generic [ref=f1e130]:
+            - generic [ref=f1e131]: Продуктивність
+            - strong [ref=f1e132]: 32 л/хв
+          - generic [ref=f1e133]:
+            - generic [ref=f1e134]: Робочий тиск
+            - strong [ref=f1e135]: 920 бар
+          - generic [ref=f1e136]:
+            - generic [ref=f1e137]: Максимум після заміни пари
+            - strong [ref=f1e138]: До 1500 бар
+          - generic [ref=f1e139]:
+            - generic [ref=f1e140]: Виконання
+            - strong [ref=f1e141]: Мобільна рама / захисний контейнер
+          - generic [ref=f1e142]:
+            - generic [ref=f1e143]: Стан
+            - strong [ref=f1e144]: Новий
+    - generic [ref=f1e146]:
+      - generic [ref=f1e147]:
+        - generic [ref=f1e148]: Переваги
+        - heading "Чому ця установка варта уваги" [level=2] [ref=f1e149]
+      - generic [ref=f1e150]:
+        - article [ref=f1e151]:
+          - heading "Німецька промислова база" [level=3] [ref=f1e152]
+          - paragraph [ref=f1e153]: Виробник Hammelmann GmbH відомий рішеннями для високого та надвисокого тиску, де критичні ресурс і точність.
+        - article [ref=f1e154]:
+          - heading "Запас по тиску" [level=3] [ref=f1e155]
+          - paragraph [ref=f1e156]: Поточна конфігурація працює на 920 бар, а конструктивно насосна частина допускає вихід до 1500 бар після заміни плунжерної пари.
+        - article [ref=f1e157]:
+          - heading "Робочий ресурс і зносостійкість" [level=3] [ref=f1e158]
+          - paragraph [ref=f1e159]: Плунжери з кераміки або спеціального сплаву розраховані на важкі режими експлуатації та стабільну роботу під навантаженням.
+        - article [ref=f1e160]:
+          - heading "Мобільне виконання" [level=3] [ref=f1e161]
+          - paragraph [ref=f1e162]: Формат рами або захисного контейнера полегшує розміщення на майданчику та транспортування до місця робіт.
+        - article [ref=f1e163]:
+          - heading "Готова комплектація" [level=3] [ref=f1e164]
+          - paragraph [ref=f1e165]: Разом з установкою передаються шланги високого тиску, пістолет, форсунки, Aquamat та робочі елементи з фото.
+        - article [ref=f1e166]:
+          - heading "Новий стан і консервація" [level=3] [ref=f1e167]
+          - paragraph [ref=f1e168]: Агрегат зберігається у заводській упаковці, що важливо для безпечного складування та передачі покупцеві.
+    - generic [ref=f1e170]:
+      - generic [ref=f1e171]:
+        - generic [ref=f1e172]:
+          - generic [ref=f1e173]: Галерея
+          - heading "Реальні фотографії установки та комплектації" [level=2] [ref=f1e174]
+        - paragraph [ref=f1e175]: Прев’ю оптимізовані для швидкого завантаження. У lightbox відкриваються оригінальні файли.
+      - generic [ref=f1e176]:
+        - button "Відкрити фото 1" [ref=f1e177]:
+          - img "Загальний вигляд установки Hammelmann"
+          - generic [ref=f1e178]:
+            - strong [ref=f1e179]: Головний вигляд установки
+            - generic [ref=f1e180]: 1 / 30
+        - button "Відкрити фото 2" [ref=f1e181]:
+          - img "Установка Hammelmann у дерев'яній упаковці"
+          - generic [ref=f1e182]:
+            - strong [ref=f1e183]: Стан зберігання в упаковці
+            - generic [ref=f1e184]: 2 / 30
+        - button "Відкрити фото 3" [ref=f1e185]:
+          - img "Вузол насоса та упаковка установки"
+          - generic [ref=f1e186]:
+            - strong [ref=f1e187]: Насосна частина в упаковці
+            - generic [ref=f1e188]: 3 / 30
+        - button "Відкрити фото 4" [ref=f1e189]:
+          - img "Електрична шафа установки Hammelmann"
+          - generic [ref=f1e190]:
+            - strong [ref=f1e191]: Електрична частина
+            - generic [ref=f1e192]: 4 / 30
+        - button "Відкрити фото 5" [ref=f1e193]:
+          - img "Пакування вузлів установки"
+          - generic [ref=f1e194]:
+            - strong [ref=f1e195]: Вузли в заводській консервації
+            - generic [ref=f1e196]: 5 / 30
+        - button "Відкрити фото 6" [ref=f1e197]:
+          - img "Шильдик та верхня частина установки Hammelmann"
+          - generic [ref=f1e198]:
+            - strong [ref=f1e199]: Маркування та стан корпусу
+            - generic [ref=f1e200]: 6 / 30
+        - button "Відкрити фото 7" [ref=f1e201]:
+          - img "Плунжерна частина та з'єднання установки"
+          - generic [ref=f1e202]:
+            - strong [ref=f1e203]: Робочі вузли та з'єднання
+            - generic [ref=f1e204]: 7 / 30
+        - button "Відкрити фото 8" [ref=f1e205]:
+          - img "Установка в контейнері з пакуванням"
+          - generic [ref=f1e206]:
+            - strong [ref=f1e207]: Зберігання у контейнері
+            - generic [ref=f1e208]: 8 / 30
+        - button "Відкрити фото 9" [ref=f1e209]:
+          - img "Технічний вузол установки у дерев'яній тарі"
+          - generic [ref=f1e210]:
+            - strong [ref=f1e211]: Насосна зона в упаковці
+            - generic [ref=f1e212]: 9 / 30
+        - button "Відкрити фото 10" [ref=f1e213]:
+          - img "Складський стан установки Hammelmann"
+          - generic [ref=f1e214]:
+            - strong [ref=f1e215]: Складський вигляд обладнання
+            - generic [ref=f1e216]: 10 / 30
+        - button "Відкрити фото 11" [ref=f1e217]:
+          - img "Комплектуючі установки на підлозі складу"
+          - generic [ref=f1e218]:
+            - strong [ref=f1e219]: Частина комплектуючих
+            - generic [ref=f1e220]: 11 / 30
+        - button "Відкрити фото 12" [ref=f1e221]:
+          - img "Шланги та додаткові елементи комплектації"
+          - generic [ref=f1e222]:
+            - strong [ref=f1e223]: Шланги та робочі елементи
+            - generic [ref=f1e224]: 12 / 30
+        - button "Відкрити фото 13" [ref=f1e225]:
+          - img "Електрична панель керування установки"
+          - generic [ref=f1e226]:
+            - strong [ref=f1e227]: Панель керування
+            - generic [ref=f1e228]: 13 / 30
+        - button "Відкрити фото 14" [ref=f1e229]:
+          - img "Крупний план вузла Hammelmann"
+          - generic [ref=f1e230]:
+            - strong [ref=f1e231]: Крупний план робочого вузла
+            - generic [ref=f1e232]: 14 / 30
+        - button "Відкрити фото 15" [ref=f1e233]:
+          - img "Жовта частина корпусу та арматура установки"
+          - generic [ref=f1e234]:
+            - strong [ref=f1e235]: Корпус та арматура
+            - generic [ref=f1e236]: 15 / 30
+        - button "Відкрити фото 16" [ref=f1e237]:
+          - img "Установка в ящику з пакуванням"
+          - generic [ref=f1e238]:
+            - strong [ref=f1e239]: Консервація та захист під час зберігання
+            - generic [ref=f1e240]: 16 / 30
+        - button "Відкрити фото 17" [ref=f1e241]:
+          - img "Кнопки та індикатори керування установки"
+          - generic [ref=f1e242]:
+            - strong [ref=f1e243]: Органи керування
+            - generic [ref=f1e244]: 17 / 30
+        - button "Відкрити фото 18" [ref=f1e245]:
+          - img "Окремий елемент з кабелем та шлангом"
+          - generic [ref=f1e246]:
+            - strong [ref=f1e247]: Додатковий робочий елемент
+            - generic [ref=f1e248]: 18 / 30
+        - button "Відкрити фото 19" [ref=f1e249]:
+          - img "Дерев'яна тара установки Hammelmann"
+          - generic [ref=f1e250]:
+            - strong [ref=f1e251]: Транспортна тара
+            - generic [ref=f1e252]: 19 / 30
+        - button "Відкрити фото 20" [ref=f1e253]:
+          - img "Вигляд установки зверху в тарі"
+          - generic [ref=f1e254]:
+            - strong [ref=f1e255]: Вигляд зверху на агрегат
+            - generic [ref=f1e256]: 20 / 30
+        - button "Відкрити фото 21" [ref=f1e257]:
+          - img "Крупний план технічного бака установки"
+          - generic [ref=f1e258]:
+            - strong [ref=f1e259]: Технічний бак
+            - generic [ref=f1e260]: 21 / 30
+        - button "Відкрити фото 22" [ref=f1e261]:
+          - img "Шильдик установки Hammelmann з технічними даними"
+          - generic [ref=f1e262]:
+            - strong [ref=f1e263]: Фото заводського шильдика
+            - generic [ref=f1e264]: 22 / 30
+        - button "Відкрити фото 23" [ref=f1e265]:
+          - img "Табличка обладнання на жовтому корпусі"
+          - generic [ref=f1e266]:
+            - strong [ref=f1e267]: Маркування моделі
+            - generic [ref=f1e268]: 23 / 30
+        - button "Відкрити фото 24" [ref=f1e269]:
+          - img "Арматура та кабелі установки Hammelmann"
+          - generic [ref=f1e270]:
+            - strong [ref=f1e271]: Кабелі та з'єднання
+            - generic [ref=f1e272]: 24 / 30
+        - button "Відкрити фото 25" [ref=f1e273]:
+          - img "Крупний план технічного вузла всередині контейнера"
+          - generic [ref=f1e274]:
+            - strong [ref=f1e275]: Вузол з боку приводу
+            - generic [ref=f1e276]: 25 / 30
+        - button "Відкрити фото 26" [ref=f1e277]:
+          - img "Насосна частина установки в упаковці"
+          - generic [ref=f1e278]:
+            - strong [ref=f1e279]: Насосна частина
+            - generic [ref=f1e280]: 26 / 30
+        - button "Відкрити фото 27" [ref=f1e281]:
+          - img "Крупний план електромотора Hammelmann"
+          - generic [ref=f1e282]:
+            - strong [ref=f1e283]: Привідний вузол
+            - generic [ref=f1e284]: 27 / 30
+        - button "Відкрити фото 28" [ref=f1e285]:
+          - img "Електродвигун та обв'язка установки"
+          - generic [ref=f1e286]:
+            - strong [ref=f1e287]: Електродвигун та обв'язка
+            - generic [ref=f1e288]: 28 / 30
+        - button "Відкрити фото 29" [ref=f1e289]:
+          - img "Вузол з рукавами високого тиску"
+          - generic [ref=f1e290]:
+            - strong [ref=f1e291]: Підключення високого тиску
+            - generic [ref=f1e292]: 29 / 30
+        - button "Відкрити фото 30" [ref=f1e293]:
+          - img "Установка в тарі з оглядом насосного блоку"
+          - generic [ref=f1e294]:
+            - strong [ref=f1e295]: Огляд насосного блоку в упаковці
+            - generic [ref=f1e296]: 30 / 30
+    - generic [ref=f1e298]:
+      - generic [ref=f1e299]:
+        - generic [ref=f1e300]: Комплектація
+        - heading "Що передається разом з установкою" [level=2] [ref=f1e301]
+      - generic [ref=f1e302]:
+        - list [ref=f1e304]:
+          - listitem [ref=f1e305]: Шланги високого тиску
+          - listitem [ref=f1e306]: Пістолет
+          - listitem [ref=f1e307]: Форсунки
+          - listitem [ref=f1e308]: Насадки Aquamat
+          - listitem [ref=f1e309]: Робочий інструмент
+          - listitem [ref=f1e310]: Додаткові елементи, показані на фото
+        - paragraph [ref=f1e312]: На фотографіях видно стан упаковки, електричної частини, з’єднань і частини комплектуючих. За потреби можна запросити додаткові знімки окремих вузлів або відеоогляд.
+    - generic [ref=f1e315]:
+      - generic [ref=f1e316]:
+        - generic [ref=f1e317]: Довіра та комунікація
+        - heading "Прозора пропозиція для професійного покупця" [level=2] [ref=f1e318]
+      - generic [ref=f1e319]:
+        - paragraph [ref=f1e320]: Німецький виробник Hammelmann асоціюється з професійним класом обладнання для роботи під високим навантаженням.
+        - paragraph [ref=f1e321]: Покупцеві можна надати додаткові фотографії, відео поточного стану, фото шильдика та знімки вузлів, які цікавлять перед оглядом.
+        - paragraph [ref=f1e322]: Можна обговорити формат показу, місто, умови огляду, спосіб передачі та інші практичні питання без зайвих посередників.
+    - generic [ref=f1e325]:
+      - generic [ref=f1e326]:
+        - generic [ref=f1e327]: Контакти
+        - heading "Запросіть додаткові фото, відео або домовтеся про огляд" [level=2] [ref=f1e328]
+        - paragraph [ref=f1e329]: Замість форми зворотного зв’язку тут зроблено прямі канали контакту, щоб потенційний покупець міг одразу зателефонувати або написати у зручний месенджер.
+      - generic [ref=f1e330]:
+        - generic [ref=f1e331]:
+          - generic [ref=f1e332]: Телефон
+          - strong [ref=f1e333]: +380 XX XXX XX XX
+          - link "Зателефонувати" [ref=f1e334] [cursor=pointer]:
+            - /url: tel:+380XXXXXXXXX
+        - generic [ref=f1e335]:
+          - generic [ref=f1e336]: Telegram
+          - strong [ref=f1e337]: "@username"
+          - link "Написати в Telegram" [ref=f1e338] [cursor=pointer]:
+            - /url: https://t.me/username
+        - generic [ref=f1e339]:
+          - generic [ref=f1e340]: Viber / WhatsApp
+          - strong [ref=f1e341]: +380 XX XXX XX XX
+          - link "Написати у WhatsApp" [ref=f1e342] [cursor=pointer]:
+            - /url: https://wa.me/380XXXXXXXXX
+        - generic [ref=f1e343]:
+          - generic [ref=f1e344]: Місто
+          - strong [ref=f1e345]: "[вказати місто]"
+          - link "Написати у Viber" [ref=f1e346] [cursor=pointer]:
+            - /url: viber://chat?number=%2B380XXXXXXXXX
+      - generic [ref=f1e347]:
+        - link "Зателефонувати" [ref=f1e348] [cursor=pointer]:
+          - /url: tel:+380XXXXXXXXX
+        - link "Написати в Telegram" [ref=f1e349] [cursor=pointer]:
+          - /url: https://t.me/username
+        - link "Написати у WhatsApp" [ref=f1e350] [cursor=pointer]:
+          - /url: https://wa.me/380XXXXXXXXX
+        - link "Отримати додаткові фото" [ref=f1e351] [cursor=pointer]:
+          - /url: https://t.me/username
+        - link "Домовитися про огляд" [ref=f1e352] [cursor=pointer]:
+          - /url: tel:+380XXXXXXXXX
+  - contentinfo [ref=f1e353]:
+    - generic [ref=f1e354]:
+      - generic [ref=f1e355]:
+        - strong [ref=f1e356]: Hammelmann до 1500 бар
+        - paragraph [ref=f1e357]: Продаж професійного промислового обладнання.
+      - generic [ref=f1e358]:
+        - paragraph [ref=f1e359]: "Телефон: +380 XX XXX XX XX"
+        - paragraph [ref=f1e360]: "Telegram: @username"
+      - paragraph [ref=f1e361]: © 2026 Продаж промислового обладнання
