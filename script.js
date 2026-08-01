@@ -57,9 +57,6 @@ const renderGallery = () => {
             loading="lazy"
             decoding="async"
           />
-          <span class="gallery-card__meta">
-            <strong>${item.caption}</strong>
-          </span>
         </button>
       `
     )
