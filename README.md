@@ -28,7 +28,8 @@ python3 -m http.server 4173
 
 ## Перед публікацією замінити
 
-- `https://example.com` у `index.html`
+- канонічний URL і Open Graph-посилання в `index.html` мають вказувати на актуальний домен
+- `robots.txt` і `sitemap.xml` уже підготовлені для Google Search Console
 - за потреби змінити телефон `+380 68 304 16 60`
 - за потреби змінити Telegram `@Paieta_A`
 - за потреби змінити Viber `+380 67 153 14 86`
